@@ -16,10 +16,10 @@
 
 To drop into a shell with all tools pre-installed, simply run for bash user:
 ```bash
-nix develop
+nix develop github:BruceChanJianLe/nix-cpp-project
 ```
 
 For zsh user:
 ```bash
-nix develop -c $SHELL
+nix develop github:BruceChanJianLe/nix-cpp-project -c $SHELL
 ```
